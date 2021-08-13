@@ -1,5 +1,5 @@
 ### Hi, I'm Aish 👋🏽👩🏽‍💻
-![My Post](https://user-images.githubusercontent.com/80178181/129341671-f1ea1339-523a-4e6a-94de-731b1ce90667.jpg)
+![Clean Work Place LinkedIn Banner](https://user-images.githubusercontent.com/80178181/129358399-d9b9a467-f518-4083-b176-669eac726558.png)
 
 An Automation Engineer who is passionate about open-source, developing and releasing quality softwares in production. Holding extensive experience in automating Smoke to Regression tests for web applications and web services. Skilled in Reusable Automation Solutions, Test Management, Data Analytics and Business Presentations
 <!--
